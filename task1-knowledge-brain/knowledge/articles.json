@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Changing website logo",
+    "url": "https://support.brilliantdirectories.com/",
+    "content": "To change a website logo, open the website admin area and look for design or branding settings. Upload an appropriately sized image and preview the result before publishing. Exact menu names may vary by product version; verify them in the current help article."
+  },
+  {
+    "title": "Payment settings overview",
+    "url": "https://support.brilliantdirectories.com/",
+    "content": "Payment configuration usually lives in the site's payment or billing settings. Confirm the supported payment provider, account status, and test/live mode before changing settings. Never store payment secrets in a support ticket."
+  },
+  {
+    "title": "Troubleshooting a missing page update",
+    "url": "https://support.brilliantdirectories.com/",
+    "content": "If a website change is not visible, confirm that the change was saved, refresh the page, test in a private browser window, and check whether caching is involved. If the issue remains, collect the page URL, steps to reproduce, and a screenshot for support."
+  },
+  {
+    "title": "Refund and cancellation requests",
+    "url": "https://support.brilliantdirectories.com/",
+    "content": "Refund eligibility depends on the customer's plan, contract, usage, and the company's current policy. Do not promise a refund or cancellation outcome without checking the account and approved policy. Escalate uncertain or disputed requests to a human specialist."
+  },
+  {
+    "title": "Custom development requests",
+    "url": "https://support.brilliantdirectories.com/",
+    "content": "Before estimating custom work, clarify the desired behavior, user roles, acceptance criteria, dependencies, deadline, and budget. First check whether an existing setting or documented feature can meet the need. A missing help article does not prove a feature is unavailable."
+  }
+]

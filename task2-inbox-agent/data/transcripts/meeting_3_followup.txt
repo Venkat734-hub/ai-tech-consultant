@@ -1,0 +1,2 @@
+Client follow-up to Meeting 1: We no longer need the service-type filter. Please keep the location filter. Also, we now want a saved-search feature so returning customers can reuse their last search. The launch date should be two weeks earlier.
+Consultant: Saved search is a new requirement and the earlier date may affect cost and feasibility. We will compare these changes against the approved baseline and ask the team to review the estimate.

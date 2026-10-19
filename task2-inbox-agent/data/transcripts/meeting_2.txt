@@ -1,0 +1,4 @@
+Client: We run an online store and want customers to receive an order confirmation email. We also want to review payment provider options.
+Consultant: Which provider do you use today, and should the email include order details?
+Client: We use a provider managed by our finance team. The email should show order number and items, but not payment card details.
+Consultant: We will need the provider documentation and approval from your finance team before promising integration work.

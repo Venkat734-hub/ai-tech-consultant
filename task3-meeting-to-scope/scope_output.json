@@ -1,0 +1,49 @@
+{
+  "project_name": "meeting_3_followup",
+  "transcript_file": "..\\data\\transcripts\\meeting_3_followup.txt",
+  "requirements": [
+    {
+      "id": "REQ-001",
+      "description": "Review transcript and confirm exact requested behavior",
+      "status": "needs_human_confirmation",
+      "acceptance_criteria": "Client confirms measurable expected behavior"
+    }
+  ],
+  "knowledge_check": {
+    "answer": "Based on the available starter knowledge: Before estimating custom work, clarify the desired behavior, user roles, acceptance criteria, dependencies, deadline, and budget. First check whether an existing setting or documented feature can meet the need. A missing help article does not prove a feature is unavailable. If a website change is not visible, confirm that the change was saved, refresh the page, test in a private browser window, and check whether caching is involved. If the issue remains, collect the page URL, steps to reproduce, and a screenshot for support.",
+    "status": "answered",
+    "sources": [
+      {
+        "title": "Custom development requests",
+        "url": "https://support.brilliantdirectories.com/"
+      },
+      {
+        "title": "Troubleshooting a missing page update",
+        "url": "https://support.brilliantdirectories.com/"
+      },
+      {
+        "title": "Changing website logo",
+        "url": "https://support.brilliantdirectories.com/"
+      }
+    ],
+    "needs_human": false
+  },
+  "scope": {
+    "deliverables": [
+      "Requirements clarification",
+      "Technical feasibility review"
+    ],
+    "exclusions": [
+      "Unconfirmed features and third-party work"
+    ],
+    "open_questions": [
+      "Which exact behavior should change?",
+      "What is the target deadline and budget?"
+    ]
+  },
+  "estimate": {
+    "status": "not_estimated",
+    "reason": "A human must confirm requirements before a responsible estimate can be produced."
+  },
+  "proposal_status": "draft_requires_human_approval"
+}

@@ -1,0 +1,5 @@
+Client: Our small business website search is hard to use on mobile. Customers should be able to filter results by location and service type.
+Consultant: Do you currently have filters enabled? Which pages use search?
+Client: I am not sure. The homepage and directory listing page both use search. We want the change in about a month.
+Consultant: We need to inspect current settings and confirm expected behavior before estimating.
+Client: Agreed. Please include a simple mobile-friendly layout and explain what is included in the quote.

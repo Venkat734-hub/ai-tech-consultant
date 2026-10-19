@@ -1,0 +1,302 @@
+[
+  {
+    "id": "EMAIL-001",
+    "category": "how-to",
+    "subject": "How do I change the website logo?",
+    "body": "Could you tell me where I can update our logo? I want to check it before publishing. Our account is business-1. Please advise."
+  },
+  {
+    "id": "EMAIL-002",
+    "category": "troubleshooting",
+    "subject": "A saved page update is not visible",
+    "body": "I saved a page change but the public website still shows the old version. What should I check?"
+  },
+  {
+    "id": "EMAIL-003",
+    "category": "payment",
+    "subject": "Payment settings question",
+    "body": "Where can I review payment provider settings, and what should I verify before switching modes?"
+  },
+  {
+    "id": "EMAIL-004",
+    "category": "refund",
+    "subject": "Request for a refund",
+    "body": "I would like a refund for my subscription. Please confirm whether I qualify. Our account is business-4. Please advise."
+  },
+  {
+    "id": "EMAIL-005",
+    "category": "complaint",
+    "subject": "Very disappointed with support",
+    "body": "I have contacted support twice and still do not have a clear answer. Please investigate."
+  },
+  {
+    "id": "EMAIL-006",
+    "category": "project request",
+    "subject": "Can you add a booking feature?",
+    "body": "We want customers to book appointments on our website. Can you tell me what information you need?"
+  },
+  {
+    "id": "EMAIL-007",
+    "category": "quote",
+    "subject": "Estimate for custom changes",
+    "body": "Could you provide a price for adding filters to our search page? We have not finalized the exact filters yet. Our account is business-7. Please advise."
+  },
+  {
+    "id": "EMAIL-008",
+    "category": "follow-up",
+    "subject": "Following up on my request",
+    "body": "I am checking whether you received my earlier request. Please let me know the next step."
+  },
+  {
+    "id": "EMAIL-009",
+    "category": "security",
+    "subject": "I sent a password by mistake",
+    "body": "I accidentally included a password in my last email. Please advise how to handle this securely."
+  },
+  {
+    "id": "EMAIL-010",
+    "category": "integration",
+    "subject": "Payment integration stopped working",
+    "body": "Our checkout integration has stopped working. We need help identifying what changed. Our account is business-3. Please advise."
+  },
+  {
+    "id": "EMAIL-011",
+    "category": "how-to",
+    "subject": "How do I change the website logo? (case 11)",
+    "body": "Could you tell me where I can update our logo? I want to check it before publishing."
+  },
+  {
+    "id": "EMAIL-012",
+    "category": "troubleshooting",
+    "subject": "A saved page update is not visible (case 12)",
+    "body": "I saved a page change but the public website still shows the old version. What should I check?"
+  },
+  {
+    "id": "EMAIL-013",
+    "category": "payment",
+    "subject": "Payment settings question (case 13)",
+    "body": "Where can I review payment provider settings, and what should I verify before switching modes? Our account is business-6. Please advise."
+  },
+  {
+    "id": "EMAIL-014",
+    "category": "refund",
+    "subject": "Request for a refund (case 14)",
+    "body": "I would like a refund for my subscription. Please confirm whether I qualify."
+  },
+  {
+    "id": "EMAIL-015",
+    "category": "complaint",
+    "subject": "Very disappointed with support (case 15)",
+    "body": "I have contacted support twice and still do not have a clear answer. Please investigate."
+  },
+  {
+    "id": "EMAIL-016",
+    "category": "project request",
+    "subject": "Can you add a booking feature? (case 16)",
+    "body": "We want customers to book appointments on our website. Can you tell me what information you need? Our account is business-2. Please advise."
+  },
+  {
+    "id": "EMAIL-017",
+    "category": "quote",
+    "subject": "Estimate for custom changes (case 17)",
+    "body": "Could you provide a price for adding filters to our search page? We have not finalized the exact filters yet."
+  },
+  {
+    "id": "EMAIL-018",
+    "category": "follow-up",
+    "subject": "Following up on my request (case 18)",
+    "body": "I am checking whether you received my earlier request. Please let me know the next step."
+  },
+  {
+    "id": "EMAIL-019",
+    "category": "security",
+    "subject": "I sent a password by mistake (case 19)",
+    "body": "I accidentally included a password in my last email. Please advise how to handle this securely. Our account is business-5. Please advise."
+  },
+  {
+    "id": "EMAIL-020",
+    "category": "integration",
+    "subject": "Payment integration stopped working (case 20)",
+    "body": "Our checkout integration has stopped working. We need help identifying what changed."
+  },
+  {
+    "id": "EMAIL-021",
+    "category": "how-to",
+    "subject": "How do I change the website logo? (case 21)",
+    "body": "Could you tell me where I can update our logo? I want to check it before publishing."
+  },
+  {
+    "id": "EMAIL-022",
+    "category": "troubleshooting",
+    "subject": "A saved page update is not visible (case 22)",
+    "body": "I saved a page change but the public website still shows the old version. What should I check? Our account is business-1. Please advise."
+  },
+  {
+    "id": "EMAIL-023",
+    "category": "payment",
+    "subject": "Payment settings question (case 23)",
+    "body": "Where can I review payment provider settings, and what should I verify before switching modes?"
+  },
+  {
+    "id": "EMAIL-024",
+    "category": "refund",
+    "subject": "Request for a refund (case 24)",
+    "body": "I would like a refund for my subscription. Please confirm whether I qualify."
+  },
+  {
+    "id": "EMAIL-025",
+    "category": "complaint",
+    "subject": "Very disappointed with support (case 25)",
+    "body": "I have contacted support twice and still do not have a clear answer. Please investigate. Our account is business-4. Please advise."
+  },
+  {
+    "id": "EMAIL-026",
+    "category": "project request",
+    "subject": "Can you add a booking feature? (case 26)",
+    "body": "We want customers to book appointments on our website. Can you tell me what information you need?"
+  },
+  {
+    "id": "EMAIL-027",
+    "category": "quote",
+    "subject": "Estimate for custom changes (case 27)",
+    "body": "Could you provide a price for adding filters to our search page? We have not finalized the exact filters yet."
+  },
+  {
+    "id": "EMAIL-028",
+    "category": "follow-up",
+    "subject": "Following up on my request (case 28)",
+    "body": "I am checking whether you received my earlier request. Please let me know the next step. Our account is business-7. Please advise."
+  },
+  {
+    "id": "EMAIL-029",
+    "category": "security",
+    "subject": "I sent a password by mistake (case 29)",
+    "body": "I accidentally included a password in my last email. Please advise how to handle this securely."
+  },
+  {
+    "id": "EMAIL-030",
+    "category": "integration",
+    "subject": "Payment integration stopped working (case 30)",
+    "body": "Our checkout integration has stopped working. We need help identifying what changed."
+  },
+  {
+    "id": "EMAIL-031",
+    "category": "how-to",
+    "subject": "How do I change the website logo? (case 31)",
+    "body": "Could you tell me where I can update our logo? I want to check it before publishing. Our account is business-3. Please advise."
+  },
+  {
+    "id": "EMAIL-032",
+    "category": "troubleshooting",
+    "subject": "A saved page update is not visible (case 32)",
+    "body": "I saved a page change but the public website still shows the old version. What should I check?"
+  },
+  {
+    "id": "EMAIL-033",
+    "category": "payment",
+    "subject": "Payment settings question (case 33)",
+    "body": "Where can I review payment provider settings, and what should I verify before switching modes?"
+  },
+  {
+    "id": "EMAIL-034",
+    "category": "refund",
+    "subject": "Request for a refund (case 34)",
+    "body": "I would like a refund for my subscription. Please confirm whether I qualify. Our account is business-6. Please advise."
+  },
+  {
+    "id": "EMAIL-035",
+    "category": "complaint",
+    "subject": "Very disappointed with support (case 35)",
+    "body": "I have contacted support twice and still do not have a clear answer. Please investigate."
+  },
+  {
+    "id": "EMAIL-036",
+    "category": "project request",
+    "subject": "Can you add a booking feature? (case 36)",
+    "body": "We want customers to book appointments on our website. Can you tell me what information you need?"
+  },
+  {
+    "id": "EMAIL-037",
+    "category": "quote",
+    "subject": "Estimate for custom changes (case 37)",
+    "body": "Could you provide a price for adding filters to our search page? We have not finalized the exact filters yet. Our account is business-2. Please advise."
+  },
+  {
+    "id": "EMAIL-038",
+    "category": "follow-up",
+    "subject": "Following up on my request (case 38)",
+    "body": "I am checking whether you received my earlier request. Please let me know the next step."
+  },
+  {
+    "id": "EMAIL-039",
+    "category": "security",
+    "subject": "I sent a password by mistake (case 39)",
+    "body": "I accidentally included a password in my last email. Please advise how to handle this securely."
+  },
+  {
+    "id": "EMAIL-040",
+    "category": "integration",
+    "subject": "Payment integration stopped working (case 40)",
+    "body": "Our checkout integration has stopped working. We need help identifying what changed. Our account is business-5. Please advise."
+  },
+  {
+    "id": "EMAIL-041",
+    "category": "how-to",
+    "subject": "How do I change the website logo? (case 41)",
+    "body": "Could you tell me where I can update our logo? I want to check it before publishing."
+  },
+  {
+    "id": "EMAIL-042",
+    "category": "troubleshooting",
+    "subject": "A saved page update is not visible (case 42)",
+    "body": "I saved a page change but the public website still shows the old version. What should I check?"
+  },
+  {
+    "id": "EMAIL-043",
+    "category": "payment",
+    "subject": "Payment settings question (case 43)",
+    "body": "Where can I review payment provider settings, and what should I verify before switching modes? Our account is business-1. Please advise."
+  },
+  {
+    "id": "EMAIL-044",
+    "category": "refund",
+    "subject": "Request for a refund (case 44)",
+    "body": "I would like a refund for my subscription. Please confirm whether I qualify."
+  },
+  {
+    "id": "EMAIL-045",
+    "category": "complaint",
+    "subject": "Very disappointed with support (case 45)",
+    "body": "I have contacted support twice and still do not have a clear answer. Please investigate."
+  },
+  {
+    "id": "EMAIL-046",
+    "category": "project request",
+    "subject": "Can you add a booking feature? (case 46)",
+    "body": "We want customers to book appointments on our website. Can you tell me what information you need? Our account is business-4. Please advise."
+  },
+  {
+    "id": "EMAIL-047",
+    "category": "quote",
+    "subject": "Estimate for custom changes (case 47)",
+    "body": "Could you provide a price for adding filters to our search page? We have not finalized the exact filters yet."
+  },
+  {
+    "id": "EMAIL-048",
+    "category": "follow-up",
+    "subject": "Following up on my request (case 48)",
+    "body": "I am checking whether you received my earlier request. Please let me know the next step."
+  },
+  {
+    "id": "EMAIL-049",
+    "category": "security",
+    "subject": "I sent a password by mistake (case 49)",
+    "body": "I accidentally included a password in my last email. Please advise how to handle this securely. Our account is business-7. Please advise."
+  },
+  {
+    "id": "EMAIL-050",
+    "category": "integration",
+    "subject": "Payment integration stopped working (case 50)",
+    "body": "Our checkout integration has stopped working. We need help identifying what changed."
+  }
+]
